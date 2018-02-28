@@ -35,7 +35,13 @@ No se necesita tener objetos Bicicletas en el diseño ya que el alquiler no se r
 El objeto Rental, tiene dentro de sus propiedades el Id del RentalOrder al cual están asociadas. Es un dato redundante pero que sirve para mejorar las búsquedas en caso de tener capas de persistencia.
 
 No se diseño la capa de persistencia ni de UI ya que estaba fuera del alcance del ejercicio.
- 
+
+Diagrama de clases
+==================
+
+![](Diagrama%20de%20clases.png)
+
+
 Prácticas de programación
 =========================
 Se utilizó POO.
