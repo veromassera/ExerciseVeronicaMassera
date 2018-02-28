@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExerciseVeronicaMassera.Rental">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAQAAAAAAAAAAABAAAAAAABKAAAggAQAEAAI=</HashCode>
+      <FileName>Rental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExerciseVeronicaMassera.RentalOrder">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAQgEAAABAAAAAAAAAAEAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>RentalOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExerciseVeronicaMassera.BikesByDay">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAABAAAAAAAAAEAAA=</HashCode>
+      <FileName>BikesByDay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExerciseVeronicaMassera.PeriodType">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>PeriodType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExerciseVeronicaMassera.ParameterOfRent">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAIAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>ParameterOfRent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExerciseVeronicaMassera.RentalManager">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIgAAIACAAAAAAACACAAAAAEAAAAAABCAEACAAAAAAA=</HashCode>
+      <FileName>RentalManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ExerciseVeronicaMassera.Period">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAAIAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
